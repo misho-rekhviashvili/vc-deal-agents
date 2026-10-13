@@ -1,0 +1,4 @@
+# Deal folders contain confidential data room material
+deals/*
+!deals/.gitkeep
+.DS_Store
